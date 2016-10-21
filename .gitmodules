@@ -1,0 +1,3 @@
+[submodule "mainwithsub"]
+	path = mainwithsub
+	url = https://github.com/Chechotkin/mainwithsub
